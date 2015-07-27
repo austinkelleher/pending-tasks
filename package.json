@@ -1,0 +1,32 @@
+{
+  "name": "pending-tasks",
+  "version": "1.0.7",
+  "description": "Timed Task Manager",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --ui bdd --reporter spec ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinkelleher/pending-tasks"
+  },
+  "keywords": [
+    "pending",
+    "tasks",
+    "timeout"
+  ],
+  "author": "Austin Kelleher, a@alk.im",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinkelleher/pending-tasks/issues"
+  },
+  "homepage": "https://github.com/austinkelleher/pending-tasks",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "uuid": "^2.0.1"
+  }
+}
