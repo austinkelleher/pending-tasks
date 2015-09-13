@@ -1,6 +1,6 @@
 {
   "name": "pending-tasks",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Timed Task Manager",
   "main": "index.js",
   "directories": {
